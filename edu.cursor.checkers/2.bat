@@ -1,0 +1,1 @@
+java -jar target\edu.cursor.checkers-0.0.1-SNAPSHOT.jar
